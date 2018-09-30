@@ -59,9 +59,12 @@ _ _ _
 
 ### Custom Style
 ```
+/*wrap*/
 .acc-wrap{border-radius:15px; border:1px solid #ced4da;}
+
 /*title*/
 .acc-title{padding:10px 15px; background:#f1f3f5; border-bottom:1px solid #ffffff;}
+
 /*contents*/
 [data-acc-title]{background:#f8f9fa; padding:15px;}
 ```
