@@ -3,7 +3,7 @@
 ### License
 MIT license - http://opensource.org/licenses/MIT
 
-![Accordion](./accordion.png)
+![Accordion](./accordion.jpg)
 
 ### Set up
 
